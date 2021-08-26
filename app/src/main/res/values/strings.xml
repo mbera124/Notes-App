@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_note">ADD NOTE</string>
+</resources>
